@@ -1,0 +1,13 @@
+[buildPlans.IosevkaCustomSlab]
+family = "Iosevka Custom Slab"
+spacing = "term"
+serifs = "slab"
+noLigation = true
+webfontFormats = ['TTF', 'WOFF2']
+
+[buildPlans.IosevkaCustomSans]
+family = "Iosevka Custom Sans"
+spacing = "term"
+serifs = "sans"
+noLigation = true
+webfontFormats = ['TTF', 'WOFF2']
